@@ -1,3 +1,2 @@
 # calculator
-My first project
-<br>
+This is my <b>first web development project</b>, a dynamic and visually appealing Web Calculator designed with creativity and interactivity in mind. It features a smooth intro animation where my name briefly pops up and fades out, adding a modern personal touch. Users can switch between three custom themes — Light, Dark, and Pink — to enhance their experience. Each button includes click sound effects for responsive feedback. While it performs only basic arithmetic operations (addition, subtraction, multiplication, and division), the calculator delivers a clean, user-friendly interface. It is also responsive for tablets and large screens, ensuring a consistent and engaging experience across devices.
